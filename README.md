@@ -1,6 +1,7 @@
 # NextConvRec
 Official PyTorch implementation of NextConvRec, a purely convolutional framework for session-based recommendation. It integrates a Structural and Positional Convolutional Encoder (SPCE) with modern convolutional blocks to model multi-type dependencies efficiently without attention mechanisms.
 
+![image](https://github.com/CoffeeTau/NextConvRec/blob/main/fig/model_architecture.png)
 
 
 # Dataset
